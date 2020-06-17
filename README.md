@@ -12,6 +12,7 @@ Stretch: if you can understand and use regularization and different activations 
 ## Resources
 
 [Powerpoint](https://docs.google.com/presentation/d/1svB5e3v4q7-PruOf_bWRwdOTYMad94sIhLNl1hGh6k4/edit?usp=sharing)<br>
+[Code along](https://github.com/learn-co-curriculum/intro_to_neural_nets_london/blob/master/MAIN_keras_and_tensorflow-answer_key.ipynb)
 [Exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSffoZOB8qqA0yCubbblMDFzqoRSBrZdwHUoh3AhNVE9gyjchA/viewform)
 
 
